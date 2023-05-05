@@ -3,8 +3,11 @@
 
 
 """
+
+
 Burada ileride işime yarayabileceğine inandığım 
-grafik çizdirme kodları olacak.
+grafik çizdirme kodları oldukça karışık bir şekilde bulunacak.
+
 
 """
 
